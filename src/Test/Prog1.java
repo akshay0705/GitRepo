@@ -8,6 +8,8 @@ public class Prog1 {
 	
 	System.out.println("This is my prog1");
 	
+	System.out.println("hello");
+	
 	}
 
 }
