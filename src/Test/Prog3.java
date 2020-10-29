@@ -6,6 +6,7 @@ public class Prog3 {
 		// TODO Auto-generated method stub
 
 	System.out.println("This is 3rd program");
+	System.out.println("This is new code");
 	
 	}
 
