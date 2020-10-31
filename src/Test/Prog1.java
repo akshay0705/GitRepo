@@ -10,6 +10,8 @@ public class Prog1 {
 	
 	System.out.println("hello");
 	
+	
+	
 	}
 
 }
